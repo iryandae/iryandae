@@ -10,13 +10,13 @@
 🛠️ Linux • PyTorch • TensorFlow • Scikit-learn • Docker • Arduino
 </pre>
 
+<div align="right">
+  
 [![](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/iryandae)
 [![](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/iryandae)
 <img src="https://komarev.com/ghpvc/?username=iryandae&label=Profile%20views&color=0eb42f&style=flat" alt="iryandae" />
 
-<br><br>
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" height="200" />
-<br><br><br>
+</div>
 
 
 # 📊 GitHub Stats:
