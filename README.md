@@ -20,7 +20,4 @@
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=iryandae&theme=dark&hide_border=true)<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=iryandae&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
-
 </div>
