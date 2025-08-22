@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&duration=4000&pause=300&color=00FFAB&center=true&vCenter=true&multiline=true&repeat=false&width=1020&height=150&lines=Hey+there+%F0%9F%91%8B;I'm+Iryanda+Endia%2C" width="80%" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&duration=4000&pause=300&color=00FFAB&center=true&vCenter=true&multiline=true&repeat=false&width=1020&height=150&lines=Hey+there+%F0%9F%91%8B;I'm+Iryanda+Endia%" width="80%" />
 
 <br/>
 
